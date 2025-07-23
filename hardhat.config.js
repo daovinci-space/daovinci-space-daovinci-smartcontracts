@@ -1,0 +1,1 @@
+// hardhat.config.js - Estrutura inicial dos smart contracts DAO VINCI

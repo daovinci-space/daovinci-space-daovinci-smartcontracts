@@ -1,0 +1,1 @@
+// VinciToken.test.js - Estrutura inicial dos smart contracts DAO VINCI

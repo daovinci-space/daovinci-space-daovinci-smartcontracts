@@ -1,0 +1,1 @@
+// deploy.js - Estrutura inicial dos smart contracts DAO VINCI
